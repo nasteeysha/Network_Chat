@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServer", "WCFServer\WCFServer.csproj", "{9E616615-EE4E-49FC-9E12-175FF34F10B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFClient", "WCFClient\WCFClient.csproj", "{2F1A62CD-AC88-404D-BA4C-9FB2C8BDCC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{FF4FB06E-FECF-41CF-A861-1E5E40494E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E616615-EE4E-49FC-9E12-175FF34F10B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E616615-EE4E-49FC-9E12-175FF34F10B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E616615-EE4E-49FC-9E12-175FF34F10B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E616615-EE4E-49FC-9E12-175FF34F10B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1A62CD-AC88-404D-BA4C-9FB2C8BDCC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1A62CD-AC88-404D-BA4C-9FB2C8BDCC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1A62CD-AC88-404D-BA4C-9FB2C8BDCC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1A62CD-AC88-404D-BA4C-9FB2C8BDCC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4FB06E-FECF-41CF-A861-1E5E40494E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4FB06E-FECF-41CF-A861-1E5E40494E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4FB06E-FECF-41CF-A861-1E5E40494E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4FB06E-FECF-41CF-A861-1E5E40494E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB42101B-1158-4BB2-BEF5-FA58C8CF3835}
+	EndGlobalSection
+EndGlobal

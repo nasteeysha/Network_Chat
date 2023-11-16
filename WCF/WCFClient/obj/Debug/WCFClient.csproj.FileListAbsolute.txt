@@ -1,0 +1,17 @@
+D:\Projects\WCF\WCFClient\bin\Debug\WCFClient.exe.config
+D:\Projects\WCF\WCFClient\bin\Debug\WCFClient.exe
+D:\Projects\WCF\WCFClient\bin\Debug\WCFClient.pdb
+D:\Projects\WCF\WCFClient\bin\Debug\Contracts.dll
+D:\Projects\WCF\WCFClient\bin\Debug\Contracts.pdb
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.csproj.AssemblyReference.cache
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.csproj.SuggestedBindingRedirects.cache
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.cache
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.csproj.CopyComplete
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.exe
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.pdb
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.TableForm.resources
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.EditForm.resources
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.AvtForm.resources
+D:\Projects\WCF\WCFClient\obj\Debug\WCFClient.RegistrForm.resources
